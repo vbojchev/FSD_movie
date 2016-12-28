@@ -7,6 +7,8 @@ Is a great place to find pout more about the character of Vladimir. It is a plac
 Download and extract the zip file with all the files in it.
 Then just open the _fresh_tomatoes.html_ website and **WOALA!!!**
 
+or clone it from GItHub: https://github.com/vbojchev/FSD_movie.git
+
 
 ### Modifying the movie list
 
