@@ -5,9 +5,17 @@ Is a great place to find pout more about the character of Vladimir. It is a plac
 ### Installation
 
 Download and extract the zip file with all the files in it.
-Then just open the _fresh_tomatoes.html_ website and **WOALA!!!**
-
 or clone it from GItHub: https://github.com/vbojchev/FSD_movie.git
+
+### Running the application
+
+If you just want to see the list of my favorite movies just open the _fresh_tomatoes.html_ website and **woala!!!** everything is there for you 
+In case you want to modify the website with your movies you need to
+- open _entertainment_center.py_ with the python IDLE
+- make the modifications
+- save and run
+- open the _fresh_tomatoes.html_ website and **woala!!!**
+
 
 
 ### Modifying the movie list
