@@ -1,6 +1,8 @@
+# I'm reusing existing code from fresh_tomatoes and our class declaration is in media
 import media
 import fresh_tomatoes
 
+# every movie has (Title, Storyline, poster_url, youtube_trailer_url)
 toy_story = media.Movie("Toy Story 1", "Toys can be mean to each other",
                         "http://cdn.movieweb.com/img.site/PHcZdLV7C3qNgc_1_l.jpg",
                         "https://www.youtube.com/watch?v=4KPTXpQehio")
